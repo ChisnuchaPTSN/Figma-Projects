@@ -1,4 +1,4 @@
-# 🎨 UX/UI Design
+# 🎨 UX/UI Design by Figma
 - **[Shopping Application](https://www.figma.com/proto/nHjrpw7NVhU9HHBVaTQ8rg/Fast-F-Shopping-App?node-id=39-40&p=f&t=U647zMmn5JYdpfj9-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A40&show-proto-sidebar=1)**  
   _Description:_ A modern shopping application with a user-friendly interface, tailored for the younger generation. It includes essential features such as product browsing, cart management, and secure checkout.
 
